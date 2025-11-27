@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394644892502",
+    "project_id": "app-repartidor-prog-movil2025",
+    "storage_bucket": "app-repartidor-prog-movil2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394644892502:android:b548e869f57cb8d05e04f7",
+        "android_client_info": {
+          "package_name": "com.nimbus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA1vC7C5qzN8fhRxrnfBMk3k2hXTLbKcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394644892502:android:15e2ab652df5ac8d5e04f7",
+        "android_client_info": {
+          "package_name": "com.nimbus.app_repartidor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA1vC7C5qzN8fhRxrnfBMk3k2hXTLbKcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
